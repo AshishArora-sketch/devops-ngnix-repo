@@ -1,0 +1,5 @@
+
+
+This is a intruction file to given intruction to user
+we are here to perform two branch merge opertion to 
+check that how merge is working in git hub
